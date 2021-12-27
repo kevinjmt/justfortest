@@ -1,2 +1,2 @@
-for i in range:
-    jsp
+for i in ringe:
+    mehdi est fort en prog
